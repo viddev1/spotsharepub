@@ -1,3 +1,9 @@
+---
+title: "SpotShare Privacy Policy"
+layout: page
+permalink: /privacy/
+---
+
 SpotShare Privacy Policy
 
 Effective Date: 1 July 2026
@@ -88,10 +94,10 @@ If you have questions about this Privacy Policy or how your information is handl
 
 FDL
 
-Email: vidit.chaurasia@fdl.co.nz
+Email: [vidit.chaurasia@fdl.co.nz](mailto:vidit.chaurasia@fdl.co.nz)
 
-Website: https://fdl.co.nz
+Website: [https://fdl.co.nz](https://fdl.co.nz)
 
 Apple App Store Privacy
 
-SpotShare collects only the information necessary to provide workplace parking reservation services. Information is used solely for authentication, reservation management, application operation, security, and support. We do not sell personal information or use it for third-party advertising.
+SpotShare collects only the information necessary to provide workplace parking reservation services. Information is used solely for authentication, reservation management, application operation, and diagnostics where enabled.
