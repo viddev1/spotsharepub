@@ -1,7 +1,7 @@
 # Welcome to Spotshare
 
 ## About
-Spotshare is a collaborative project focused on [shared parking/location sharing]. This is the public repository for the Spotshare project.
+Spotshare is a collaborative project focused on shared parking/location sharing. This is the public repository for the Spotshare project.
 
 ## Features
 - Real-time spot sharing
